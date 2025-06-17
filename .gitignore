@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Tkinter py2app or build artifacts
+build/
+dist/
+*.app
+*.spec
+
+# VSCode settings
+.vscode/
+
