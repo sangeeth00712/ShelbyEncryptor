@@ -3,7 +3,7 @@
 A simple, secure, and elegant file encryption & decryption desktop application built using **Python** and **Tkinter**.  
 This tool allows users to protect sensitive files with a password using **Fernet (AES 128-bit encryption)** from the `cryptography` library.
 
-> 💻 Built with ❤️ by **Sangeeth Thumuganti**
+> 💻 Built with  by Sangeeth Thumuganti
 
 ---
 
